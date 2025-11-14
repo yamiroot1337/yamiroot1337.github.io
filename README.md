@@ -13,7 +13,7 @@
 
 Welcome to the YamiRoot Project repository. This is a collection of lightweight PHP scripts (File Manager, Helper Tools) designed for learning and research in cybersecurity.
 
-**visit:** **[yamiroot.github.io](https://yamiroot.github.io/)**
+**visit:** **[yamiroot1337.github.io](https://yamiroot1337.github.io/)**
 
 ---
 
@@ -37,7 +37,7 @@ It originally evolved from the [0x6NyxWebShell](https://github.com/6ickzone/0x6N
 ## 🖼️ Preview
 
 
-![YamiRoot Preview](/assets/image/hero-visual.gif)
+![YamiRoot Preview](/assets/images/hero-visual.gif)
 
 ## 📜 License
 
